@@ -365,7 +365,7 @@ export default {
             title: "绝经年龄",
             describe: "您最后一次月经的年龄是？（单选）",
             option: [
-              "31-35岁",
+              "31-36岁",
               "36-40岁",
               "41-45岁",
               "46-50岁",
@@ -520,7 +520,7 @@ export default {
       ],
       drink: [
         //饮酒
-        {
+        { 
           subject: {
             title: "饮酒次数",
             describe: "您平均每周饮酒的次数是？（单选）",
